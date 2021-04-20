@@ -1,5 +1,5 @@
 ---
 title: "Gémo"
 url: /cayenne/gemo/
-shop: chaussures
+shop: vêtements
 ---
