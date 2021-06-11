@@ -1,5 +1,5 @@
 ---
 title: "Guyalire"
-url: /cayenne/guyalire/
+url: /remire-montjoly/guyalire/
 shop: livres
 ---
