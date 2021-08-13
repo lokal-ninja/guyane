@@ -1,5 +1,5 @@
 ---
 title: "Vulco"
 url: /cayenne/vulco/
-shop: réparation de voitures
+shop: pièces de voitures
 ---
