@@ -1,6 +1,6 @@
 ---
 title: Saül
 url: /saul/
-latitude: 3.6230199
-longitude: -53.2091172
+latitude: 3.623
+longitude: -53.211
 ---

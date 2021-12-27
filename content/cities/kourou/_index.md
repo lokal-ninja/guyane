@@ -1,6 +1,6 @@
 ---
 title: Kourou
 url: /kourou/
-latitude: 5.1581197
-longitude: -52.642630000000004
+latitude: 5.16
+longitude: -52.671
 ---
