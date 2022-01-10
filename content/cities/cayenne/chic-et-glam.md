@@ -1,5 +1,5 @@
 ---
 title: "Chic & Glam"
-url: /cayenne/chic-and-glam/
+url: /cayenne/chic-et-glam/
 shop: coiffeur
 ---

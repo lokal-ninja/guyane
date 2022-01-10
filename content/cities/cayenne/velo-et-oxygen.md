@@ -1,5 +1,5 @@
 ---
 title: "Velo & Oxygen"
-url: /cayenne/velo-and-oxygen/
+url: /cayenne/velo-et-oxygen/
 shop: vélo
 ---

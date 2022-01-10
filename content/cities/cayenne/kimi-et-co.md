@@ -1,5 +1,5 @@
 ---
 title: "Kimi & Co"
-url: /cayenne/kimi-and-co/
+url: /cayenne/kimi-et-co/
 shop: vêtements
 ---

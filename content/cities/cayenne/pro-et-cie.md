@@ -1,5 +1,5 @@
 ---
 title: "Pro & Cie"
-url: /cayenne/pro-and-cie/
+url: /cayenne/pro-et-cie/
 shop: instrument de musique
 ---

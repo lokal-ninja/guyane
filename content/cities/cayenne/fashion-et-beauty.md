@@ -1,5 +1,5 @@
 ---
 title: "Fashion & Beauty"
-url: /cayenne/fashion-and-beauty/
+url: /cayenne/fashion-et-beauty/
 shop: vêtements
 ---
