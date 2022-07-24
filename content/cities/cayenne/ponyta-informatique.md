@@ -1,5 +1,5 @@
 ---
 title: "Ponyta Informatique"
-url: /matoury/ponyta-informatique/
+url: /cayenne/ponyta-informatique/
 shop: ordinateur
 ---
