@@ -1,5 +1,5 @@
 ---
 title: "Proxi"
-url: /cayenne/proxi-2/
+url: /cayenne/proxi/
 shop: commodité
 ---

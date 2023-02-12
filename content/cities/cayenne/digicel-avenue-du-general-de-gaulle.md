@@ -1,5 +1,5 @@
 ---
 title: "Digicel"
-url: /cayenne/digicel-2/
+url: /cayenne/digicel/
 shop: téléphone portable
 ---

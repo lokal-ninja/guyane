@@ -1,5 +1,5 @@
 ---
 title: "Eko-Plus"
-url: /cayenne/eko-plus-3/
+url: /cayenne/eko-plus/
 shop: commodité
 ---

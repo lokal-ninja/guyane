@@ -1,5 +1,5 @@
 ---
 title: "SFR"
-url: /cayenne/sfr-2/
+url: /cayenne/sfr/
 shop: téléphone portable
 ---

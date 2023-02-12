@@ -1,5 +1,5 @@
 ---
 title: "Autorama"
-url: /cayenne/autorama-2/
+url: /cayenne/autorama/
 shop: pneus
 ---
