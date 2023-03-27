@@ -7,5 +7,5 @@ city: Cayenne
 street: "Avenue de la Liberté"
 housenumber: 10
 phone: "+33769312552"
-opening_hours: "Tu-Fr 09:00-12:00; Tu-Fr 14:00-17:00; Sa 09:00-12:00"
+opening_hours: "Tu-Fr 09:00-12:00,14:00-17:00; Sa 09:00-12:00"
 website: "https://la-kaz-a-velo.fr/"
