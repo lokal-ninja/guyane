@@ -1,5 +1,5 @@
 ---
 title: "Intersport"
-url: /cayenne/intersport/
+url: /cayenne/intersport-rond-point-leblond/
 shop: sports
 ---

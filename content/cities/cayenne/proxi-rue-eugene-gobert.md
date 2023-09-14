@@ -1,5 +1,5 @@
 ---
 title: "Proxi"
-url: /cayenne/proxi/
+url: /cayenne/proxi-rue-eugene-gobert/
 shop: commodité
 ---
