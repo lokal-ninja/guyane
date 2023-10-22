@@ -1,6 +1,6 @@
 ---
 title: Cayenne
 url: /cayenne/
-latitude: 4.941
-longitude: -52.305
+latitude: 4.938
+longitude: -52.335
 ---
