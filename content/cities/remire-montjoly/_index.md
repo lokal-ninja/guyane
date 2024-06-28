@@ -1,6 +1,6 @@
 ---
 title: Remire-Montjoly
 url: /remire-montjoly/
-latitude: 4.919
-longitude: -52.269
+latitude: 4.914
+longitude: -52.274
 ---
