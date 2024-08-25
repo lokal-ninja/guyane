@@ -1,5 +1,5 @@
 ---
 title: "Bamyrag"
 url: /cayenne/bamyrag/
-shop: shop
+shop: carburant
 ---
