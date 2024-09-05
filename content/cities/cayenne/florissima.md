@@ -1,5 +1,5 @@
 ---
 title: "Florissima"
 url: /cayenne/florissima/
-shop: fleuriste
+shop: Blumen
 ---

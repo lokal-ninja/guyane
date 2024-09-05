@@ -1,5 +1,5 @@
 ---
 title: "GVS Distribution"
 url: /cayenne/gvs-distribution/
-shop: vente en gros
+shop: Großhandel
 ---

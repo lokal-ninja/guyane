@@ -1,5 +1,5 @@
 ---
 title: "Yang"
 url: /cayenne/yang/
-shop: commodité
+shop: Lebensmittel
 ---

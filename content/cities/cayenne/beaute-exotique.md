@@ -1,5 +1,5 @@
 ---
 title: "Beauté Exotique"
 url: /cayenne/beaute-exotique/
-shop: beauté
+shop: Kosmetik
 ---

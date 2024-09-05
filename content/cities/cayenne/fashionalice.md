@@ -1,5 +1,5 @@
 ---
 title: "Fashionalice"
 url: /cayenne/fashionalice/
-shop: vêtements
+shop: Kleidung
 ---

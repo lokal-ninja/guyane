@@ -1,5 +1,5 @@
 ---
 title: "Dipac"
 url: /cayenne/dipac/
-shop: shop
+shop: Allgemein
 ---

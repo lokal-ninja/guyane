@@ -1,5 +1,5 @@
 ---
 title: "Belle"
 url: /cayenne/belle/
-shop: coiffeur
+shop: Friseur
 ---

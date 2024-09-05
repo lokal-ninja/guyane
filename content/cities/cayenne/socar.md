@@ -1,5 +1,5 @@
 ---
 title: "Socar"
 url: /cayenne/socar/
-shop: pneus
+shop: Reifen
 ---

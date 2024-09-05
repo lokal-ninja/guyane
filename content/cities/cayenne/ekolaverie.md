@@ -1,5 +1,5 @@
 ---
 title: "Ekolaverie"
 url: /cayenne/ekolaverie/
-shop: blanchisserie
+shop: Wäscherei
 ---

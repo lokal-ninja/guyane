@@ -1,5 +1,5 @@
 ---
 title: "Intersport"
 url: /cayenne/intersport/
-shop: sports
+shop: Sport
 ---

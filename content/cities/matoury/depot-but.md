@@ -1,5 +1,5 @@
 ---
 title: "Dépôt But"
 url: /matoury/depot-but/
-shop: meubles
+shop: Möbel
 ---

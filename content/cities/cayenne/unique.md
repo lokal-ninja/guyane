@@ -1,5 +1,5 @@
 ---
 title: "Unique"
 url: /cayenne/unique/
-shop: vêtements
+shop: Kleidung
 ---

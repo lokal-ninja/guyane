@@ -1,5 +1,5 @@
 ---
 title: "Satisfashion"
 url: /cayenne/satisfashion/
-shop: vêtements
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "IBM"
 url: /cayenne/ibm/
-shop: ordinateur
+shop: Computer
 ---

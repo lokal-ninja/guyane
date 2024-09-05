@@ -1,5 +1,5 @@
 ---
 title: "Renault"
 url: /cayenne/renault/
-shop: voiture
+shop: Autohaus
 ---

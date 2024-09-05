@@ -1,5 +1,5 @@
 ---
 title: "Bellani"
 url: /cayenne/bellani/
-shop: vêtements
+shop: Kleidung
 ---

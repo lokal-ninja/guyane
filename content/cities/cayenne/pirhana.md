@@ -1,5 +1,5 @@
 ---
 title: "Pirhana"
 url: /cayenne/pirhana/
-shop: cadeau
+shop: Andenken
 ---

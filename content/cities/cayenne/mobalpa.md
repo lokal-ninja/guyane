@@ -1,5 +1,5 @@
 ---
 title: "Mobalpa"
 url: /cayenne/mobalpa/
-shop: cuisine
+shop: Küchen
 ---

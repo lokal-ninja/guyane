@@ -1,5 +1,5 @@
 ---
 title: "Prim'Amazone"
 url: /remire-montjoly/primamazone/
-shop: légumes
+shop: Gemüse & Obst
 ---

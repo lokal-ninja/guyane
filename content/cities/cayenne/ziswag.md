@@ -1,5 +1,5 @@
 ---
 title: "Ziswag"
 url: /cayenne/ziswag/
-shop: coiffeur
+shop: Friseur
 ---
