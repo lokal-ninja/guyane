@@ -1,5 +1,5 @@
 ---
 title: "Lyna Mode"
 url: /cayenne/lyna-mode/
-shop: Kleidung
+shop: vêtements
 ---

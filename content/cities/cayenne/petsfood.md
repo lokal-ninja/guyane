@@ -1,5 +1,5 @@
 ---
 title: "Petsfood"
 url: /cayenne/petsfood/
-shop: Tiere
+shop: animal de compagnie
 ---

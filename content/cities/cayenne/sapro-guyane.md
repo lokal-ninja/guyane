@@ -1,5 +1,5 @@
 ---
 title: "Sapro Guyane"
 url: /cayenne/sapro-guyane/
-shop: Baumarkt
+shop: à faire soi-même
 ---

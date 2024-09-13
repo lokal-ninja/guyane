@@ -1,5 +1,5 @@
 ---
 title: "Bebe Home"
 url: /cayenne/bebe-home/
-shop: Babysachen
+shop: produits pour bébés
 ---

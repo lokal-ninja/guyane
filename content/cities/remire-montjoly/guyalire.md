@@ -1,5 +1,5 @@
 ---
 title: "Guyalire"
 url: /remire-montjoly/guyalire/
-shop: Bücher
+shop: livres
 ---

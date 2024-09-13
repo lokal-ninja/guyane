@@ -1,5 +1,5 @@
 ---
 title: "Toutes vos Chaussures"
 url: /cayenne/toutes-vos-chaussures/
-shop: Kleidung
+shop: vêtements
 ---

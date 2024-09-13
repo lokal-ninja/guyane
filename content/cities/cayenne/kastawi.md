@@ -1,5 +1,5 @@
 ---
 title: "Kastawi"
 url: /cayenne/kastawi/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

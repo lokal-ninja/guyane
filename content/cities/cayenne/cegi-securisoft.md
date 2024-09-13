@@ -1,5 +1,5 @@
 ---
 title: "CEGI Securisoft"
 url: /cayenne/cegi-securisoft/
-shop: Sicherheit
+shop: sécurité
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mobile Plus"
 url: /cayenne/mobile-plus/
-shop: Handy
+shop: téléphone portable
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Flashcolor"
 url: /cayenne/flashcolor/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

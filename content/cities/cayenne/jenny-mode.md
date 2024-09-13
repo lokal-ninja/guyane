@@ -1,5 +1,5 @@
 ---
 title: "Jenny Mode"
 url: /cayenne/jenny-mode/
-shop: Kleidung
+shop: vêtements
 ---

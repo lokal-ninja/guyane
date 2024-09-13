@@ -1,5 +1,5 @@
 ---
 title: "Mizzi"
 url: /cayenne/mizzi/
-shop: Möbel
+shop: meubles
 ---

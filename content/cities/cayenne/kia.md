@@ -1,5 +1,5 @@
 ---
 title: "Kia"
 url: /cayenne/kia/
-shop: Autohaus
+shop: voiture
 ---

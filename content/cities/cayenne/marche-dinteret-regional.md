@@ -1,5 +1,5 @@
 ---
 title: "Marché d'Intérêt Régional"
 url: /cayenne/marche-dinteret-regional/
-shop: Fisch
+shop: fruits de mer
 ---

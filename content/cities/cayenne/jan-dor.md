@@ -1,5 +1,5 @@
 ---
 title: "J'an d'Or"
 url: /cayenne/jan-dor/
-shop: Schmuck
+shop: bijoux
 ---

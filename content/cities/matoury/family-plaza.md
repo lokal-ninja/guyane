@@ -1,5 +1,5 @@
 ---
 title: "Family Plaza"
 url: /matoury/family-plaza/
-shop: Einkaufszentrum
+shop: centre commercial
 ---

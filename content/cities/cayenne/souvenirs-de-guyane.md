@@ -1,5 +1,5 @@
 ---
 title: "Souvenirs de Guyane"
 url: /cayenne/souvenirs-de-guyane/
-shop: Andenken
+shop: cadeau
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Femia"
 url: /cayenne/femia/
-shop: Bestattungen
+shop: directeurs de funérailles
 ---

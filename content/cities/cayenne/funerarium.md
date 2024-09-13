@@ -1,5 +1,5 @@
 ---
 title: "Funerarium"
 url: /cayenne/funerarium/
-shop: Bestattungen
+shop: directeurs de funérailles
 ---

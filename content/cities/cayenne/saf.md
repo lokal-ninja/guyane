@@ -1,5 +1,5 @@
 ---
 title: "SAF"
 url: /cayenne/saf/
-shop: Fisch
+shop: fruits de mer
 ---

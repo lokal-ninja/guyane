@@ -1,5 +1,5 @@
 ---
 title: "Event garden"
 url: /cayenne/event-garden/
-shop: Garten-Center
+shop: centre de jardinage
 ---

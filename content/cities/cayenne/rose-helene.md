@@ -1,5 +1,5 @@
 ---
 title: "Rose Helene"
 url: /cayenne/rose-helene/
-shop: Kosmetik
+shop: beauté
 ---

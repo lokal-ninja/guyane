@@ -1,5 +1,5 @@
 ---
 title: "Wei Wei"
 url: /cayenne/wei-wei/
-shop: Andenken
+shop: cadeau
 ---

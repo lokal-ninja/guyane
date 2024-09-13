@@ -1,5 +1,5 @@
 ---
 title: "Garage Costa"
 url: /cayenne/garage-costa/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

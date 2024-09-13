@@ -1,5 +1,5 @@
 ---
 title: "Sud Motors - Audi"
 url: /cayenne/sud-motors-audi/
-shop: Autohaus
+shop: voiture
 ---

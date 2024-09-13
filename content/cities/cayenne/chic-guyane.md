@@ -1,5 +1,5 @@
 ---
 title: "Chic Guyane"
 url: /cayenne/chic-guyane/
-shop: Kleidung
+shop: vêtements
 ---

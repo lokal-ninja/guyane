@@ -1,5 +1,5 @@
 ---
 title: "Leader Mat"
 url: /cayenne/leader-mat/
-shop: Baumarkt
+shop: à faire soi-même
 ---

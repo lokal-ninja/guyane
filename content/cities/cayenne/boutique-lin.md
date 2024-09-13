@@ -1,5 +1,5 @@
 ---
 title: "Boutique Lin"
 url: /cayenne/boutique-lin/
-shop: Kleidung
+shop: vêtements
 ---

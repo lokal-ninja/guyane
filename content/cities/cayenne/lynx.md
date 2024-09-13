@@ -1,5 +1,5 @@
 ---
 title: "Lynx"
 url: /cayenne/lynx/
-shop: Optiker
+shop: opticien
 ---

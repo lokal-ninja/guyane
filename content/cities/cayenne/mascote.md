@@ -1,5 +1,5 @@
 ---
 title: "Mascote"
 url: /cayenne/mascote/
-shop: Kleidung
+shop: vêtements
 ---

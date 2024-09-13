@@ -1,5 +1,5 @@
 ---
 title: "Zhan"
 url: /cayenne/zhan/
-shop: Lebensmittel
+shop: commodité
 ---

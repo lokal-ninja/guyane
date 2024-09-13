@@ -1,5 +1,5 @@
 ---
 title: "Janitex"
 url: /cayenne/janitex/
-shop: Eisenwaren
+shop: matériel informatique
 ---
