@@ -1,11 +1,11 @@
 id: 71482554
-type: way
+type: node
 latitude: 4.93776
 longitude: -52.33078
 postcode: ""
 city: Cayenne
-street: "Rue du Lieutenant Becker"
-housenumber: 35
+street: Rue du Lieutenant Becker
+housenumber: "35"
 phone: ""
 opening_hours: ""
 website: ""

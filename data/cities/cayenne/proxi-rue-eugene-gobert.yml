@@ -1,11 +1,11 @@
 id: 165561127
-type: way
+type: node
 latitude: 4.93156
 longitude: -52.33238
 postcode: ""
 city: Cayenne
-street: "Rue Eugène Gobert"
-housenumber: 2
+street: Rue Eugène Gobert
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

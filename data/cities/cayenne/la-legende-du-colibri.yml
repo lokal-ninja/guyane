@@ -1,11 +1,11 @@
 id: 71488343
-type: way
+type: node
 latitude: 4.94294
 longitude: -52.32825
 postcode: "97300"
 city: Cayenne
-street: "Rue Victor Schœlcher"
-housenumber: 84
+street: Rue Victor Schœlcher
+housenumber: "84"
 phone: ""
-opening_hours: "Mo-Fr 08:30-13:00, Mo-Fr 14:30-19:00, Sa 09:00-13:00, Sa 16:00-19:00"
-website: "https://www.kazabul.com/"
+opening_hours: Mo-Fr 08:30-13:00, Mo-Fr 14:30-19:00, Sa 09:00-13:00, Sa 16:00-19:00
+website: https://www.kazabul.com/

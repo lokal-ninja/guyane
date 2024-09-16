@@ -1,11 +1,11 @@
 id: 71474857
-type: way
+type: node
 latitude: 4.90106
 longitude: -52.32686
 postcode: "97300"
 city: Cayenne
 street: ""
-housenumber: 4
-phone: "+594 594 35 06 26"
-opening_hours: "Mo-Fr 07:30-15:30"
-website: "https://www.lgdd.fr/"
+housenumber: "4"
+phone: +594 594 35 06 26
+opening_hours: Mo-Fr 07:30-15:30
+website: https://www.lgdd.fr/

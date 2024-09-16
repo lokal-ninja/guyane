@@ -1,11 +1,11 @@
 id: 96464802
-type: way
+type: node
 latitude: 4.91983
 longitude: -52.27871
 postcode: "97354"
 city: Rémire-Montjoly
-street: "Route de Montjoly"
-housenumber: 1150
-phone: "+33 6 94 40 36 36"
+street: Route de Montjoly
+housenumber: "1150"
+phone: +33 6 94 40 36 36
 opening_hours: ""
 website: ""

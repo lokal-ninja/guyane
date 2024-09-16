@@ -1,11 +1,11 @@
 id: 71492978
-type: way
+type: node
 latitude: 4.93459
 longitude: -52.32079
 postcode: ""
 city: Cayenne
-street: "Rue Chlore Constant"
-housenumber: 11
+street: Rue Chlore Constant
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

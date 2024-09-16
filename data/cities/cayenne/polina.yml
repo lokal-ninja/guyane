@@ -1,11 +1,11 @@
 id: 71479123
-type: way
+type: node
 latitude: 4.93462
 longitude: -52.31111
 postcode: ""
 city: Cayenne
-street: "Route de Baduel"
-housenumber: 959
+street: Route de Baduel
+housenumber: "959"
 phone: ""
 opening_hours: ""
 website: ""

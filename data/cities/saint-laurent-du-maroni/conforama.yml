@@ -1,11 +1,11 @@
 id: 287020030
-type: way
+type: node
 latitude: 5.49215
 longitude: -54.03423
 postcode: "97320"
 city: Saint-Laurent-du-Maroni
-street: "Rue du Bac"
-housenumber: 15
+street: Rue du Bac
+housenumber: "15"
 phone: ""
-opening_hours: "Mo-Sa 09:00-13:00,16:00-19:00"
-website: "https://www.conforama-guyane.fr/"
+opening_hours: Mo-Sa 09:00-13:00,16:00-19:00
+website: https://www.conforama-guyane.fr/

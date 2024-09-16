@@ -1,11 +1,11 @@
 id: 71469400
-type: way
+type: node
 latitude: 4.93161
 longitude: -52.33283
 postcode: ""
 city: Cayenne
-street: "Rue Eugène Gobert"
-housenumber: 5
-phone: "+594 694 38 70 22"
+street: Rue Eugène Gobert
+housenumber: "5"
+phone: +594 694 38 70 22
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1265841344
-type: way
+type: node
 latitude: 4.906
 longitude: -52.32427
 postcode: "97300"
 city: Cayenne
-street: "Rue Raoul Tanon de Pélissier"
-housenumber: 5
-phone: "+594 594 29 60 70"
+street: Rue Raoul Tanon de Pélissier
+housenumber: "5"
+phone: +594 594 29 60 70
 opening_hours: ""
-website: "https://go.guyanemateriels.com/"
+website: https://go.guyanemateriels.com/

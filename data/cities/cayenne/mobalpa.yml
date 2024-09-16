@@ -4,8 +4,8 @@ latitude: 4.90766
 longitude: -52.32403
 postcode: "97300"
 city: Cayenne
-street: "Rue Raoul Tanon de Pélissier"
-housenumber: 8
-phone: "+594 694 45 42 55"
-opening_hours: "Mo-Fr 09:00-16:00; Sa 08:00-12:00"
-website: "https://www.mobalpa.fr/magasin/mobalpa-cayenne"
+street: Rue Raoul Tanon de Pélissier
+housenumber: "8"
+phone: +594 694 45 42 55
+opening_hours: Mo-Fr 09:00-16:00; Sa 08:00-12:00
+website: https://www.mobalpa.fr/magasin/mobalpa-cayenne

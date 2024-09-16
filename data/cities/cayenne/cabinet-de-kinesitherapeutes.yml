@@ -1,11 +1,11 @@
 id: 444486748
-type: way
+type: node
 latitude: 4.93682
 longitude: -52.31989
 postcode: ""
 city: Cayenne
-street: "Rue Sainte-Catherine"
-housenumber: 9
+street: Rue Sainte-Catherine
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

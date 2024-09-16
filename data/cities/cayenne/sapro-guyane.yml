@@ -4,8 +4,8 @@ latitude: 4.90748
 longitude: -52.32432
 postcode: "97300"
 city: Cayenne
-street: "Rue Raoul Tanon De Pelissier"
-housenumber: 8
-phone: "+594 594 35 22 26"
-opening_hours: "Mo-Fr 07:00-16:00; Sa 08:00-12:00"
-website: "http://www.sapro.fr/sapro-guyane/"
+street: Rue Raoul Tanon De Pelissier
+housenumber: "8"
+phone: +594 594 35 22 26
+opening_hours: Mo-Fr 07:00-16:00; Sa 08:00-12:00
+website: http://www.sapro.fr/sapro-guyane/

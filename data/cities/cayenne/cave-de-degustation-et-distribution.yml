@@ -1,11 +1,11 @@
 id: 71470510
-type: way
+type: node
 latitude: 4.93527
 longitude: -52.32865
 postcode: ""
 city: Cayenne
-street: "Rue René Jadfard"
-housenumber: 63
+street: Rue René Jadfard
+housenumber: "63"
 phone: ""
 opening_hours: ""
 website: ""

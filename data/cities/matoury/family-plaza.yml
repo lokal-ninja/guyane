@@ -1,11 +1,11 @@
 id: 362487797
-type: way
+type: node
 latitude: 4.88769
 longitude: -52.33145
 postcode: "97351"
 city: Matoury
-street: "Route de l'Est"
-housenumber: 
+street: Route de l'Est
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 09:30-20:00; Sa 09:00-20:00; PH off"
+opening_hours: Mo-Fr 09:30-20:00; Sa 09:00-20:00; PH off
 website: ""

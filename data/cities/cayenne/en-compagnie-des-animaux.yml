@@ -4,8 +4,9 @@ latitude: 4.93427
 longitude: -52.31065
 postcode: "97300"
 city: Cayenne
-street: "Route de Baduel"
-housenumber: 1057
-phone: "+594 594 40 14 85"
-opening_hours: "Mo 15:00-18:30,Sa 09:00-12:30, Tu-Th 08:30-13:00,Tu-Th 15:00-18:15, Fr 08:30-14:00, Fr 15:00-18:15"
-website: "https://www.encompagniedesanimaux.net/"
+street: Route de Baduel
+housenumber: "1057"
+phone: +594 594 40 14 85
+opening_hours: Mo 15:00-18:30,Sa 09:00-12:30, Tu-Th 08:30-13:00,Tu-Th 15:00-18:15,
+    Fr 08:30-14:00, Fr 15:00-18:15
+website: https://www.encompagniedesanimaux.net/
