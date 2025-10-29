@@ -1,5 +1,5 @@
 ---
-title: "Dépôt Megabriel"
+title: "Dépôt Mégabriel"
 url: /cayenne/depot-megabriel/
 shop: meubles
 ---
