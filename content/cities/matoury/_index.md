@@ -1,6 +1,6 @@
 ---
 title: Matoury
 url: /matoury/
-latitude: 4.887
-longitude: -52.332
+latitude: 4.85
+longitude: -52.331
 ---
