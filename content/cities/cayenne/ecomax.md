@@ -1,5 +1,5 @@
 ---
 title: "Ecomax"
 url: /cayenne/ecomax/
-shop: supermarché
+shop: commodité
 ---
