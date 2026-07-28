@@ -7,6 +7,5 @@ city: MACOURIA
 street: Avenue de la Césarée
 housenumber: "3495"
 phone: +594 694 222 333
-opening_hours: 'Lundi - Mardi - Jeudi : 7h-12h et 13h - 15h  Mercredi et vendredi
-    : 7h - 12h et 12h30 - 14h30'
+opening_hours: Mo,Tu,Th 07:00-12:00,13:00-15:00; We,Fr 07:00-12:00,12:30-14:30
 website: ""
