@@ -1,5 +1,5 @@
 ---
 title: "Carrefour"
 url: /matoury/carrefour/
-shop: centre commercial
+shop: supermarché
 ---
